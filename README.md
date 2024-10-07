@@ -2,9 +2,13 @@
 
 # Team Members
 Zayd Andre – Mandre2@ucmerced.edu - Transit
+
 Akhil Devarasetty  - adevarasetty@ucmerced.edu - (Role)
+
 Tom Le - tle267@ucmerced.edu - (Role)
+
 Michael Wang  - mwang100@ucmerced.edu - (Role)
+
 Alex Titov  - atitov@ucmerced.edu - AI
 
 # Project Description
