@@ -1,0 +1,3 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Cattracks,https://cattracks.ridesystems.net/stops/8,en,20240201,20250331,20210401,support@nationalrtap.org,
+GMV Syncromatics,https://gmvsyncromatics.com,en-US,20230930,,45200,support@gmvsync.com,https://gmvsyncromatics.com/contact

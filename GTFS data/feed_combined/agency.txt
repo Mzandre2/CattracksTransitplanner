@@ -1,0 +1,3 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+CATTracks,Uc Merced CATTracks,https://taps.ucmerced.edu/transportation,America/Los_Angeles,en,(209) 228-4400,https://taps.ucmerced.edu/transportation,taps@ucmerced.edu
+42,Merced The Bus,https://www.mercedthebus.com/,America/Los_Angeles,en-US,,,

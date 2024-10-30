@@ -1,0 +1,16 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1225,42,"22","UC - UC Merced ",UC Merced Shuttle,3,,BA6606,FFFFFF
+18,42,"L - Weekday","L - Livingston Commuter",Livingston Commuter - Weekday,3,,0820FF,FFFFFF
+19,42,"LB - Dos Palos","LB - Los Banos Commuter",Los Banos-Dos Palos Commuter Service,3,,12A13D,FFFFFF
+20,42,"M1 - To HSA","M1 - Merced West",Merced West to HSA,3,,C97E0E,FFFFFF
+21,42,"M2","M2 - R Street Route",R Street Route,3,,A67726,FFFFFF
+22,42,"M3","M3 - M Street Route",M Street Route,3,,CFB359,FFFFFF
+23,42,"M4","M4 - G Street Route",G Street Route,3,,827033,FFFFFF
+24,42,"M5","M5 - Merced South-East",Merced South-East,3,,D17F36,FFFFFF
+25,42,"M6 - First Run","M6 - Olive Loops",Olive Loops ,3,,FFA742,FFFFFF
+5889,42,"M7","M7 - South G Street Route",South G Street,3,,827033,FFFFFF
+953,42,"A2","A2 - Winton Way",Winton Way,3,,B50920,FFFFFF
+957,42,"A1","A1 - Atwater Loop",Atwater Loop - Counter Clockwise,3,,FF0818,FFFFFF
+958,42,"P","P - Planada Commuter",Planada Commuter,3,,6AB8CC,FFFFFF
+972,42,"T","T - Turlock Commuter",Turlock Commuter,3,,A7B1DB,FFFFFF
+973,42,"W1","W1 - Winton Commuter",Winton Commuter,3,,80ADAA,FFFFFF
