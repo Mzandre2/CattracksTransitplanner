@@ -1,0 +1,97 @@
+﻿trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,continuous_pickup,continuous_drop_off,shape_dist_traveled,timepoint
+C1_T01,06:20:00,06:20:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T01,06:32:00,06:32:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T01,06:34:00,06:34:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T01,06:36:00,06:36:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T01,06:39:00,06:39:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T01,06:45:00,06:45:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T01,06:56:00,06:56:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T01,07:06:00,07:06:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T02,07:31:00,07:31:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T02,07:43:00,07:43:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T02,07:45:00,07:45:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T02,07:47:00,07:47:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T02,07:50:00,07:50:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T02,07:56:00,07:56:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T02,08:07:00,08:07:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T02,08:17:00,08:17:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T03,08:57:00,08:57:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T03,09:09:00,09:09:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T03,09:11:00,09:11:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T03,09:13:00,09:13:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T03,09:16:00,09:16:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T03,09:22:00,09:22:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T03,09:33:00,09:33:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T03,09:43:00,09:43:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T04,10:08:00,10:08:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T04,10:20:00,10:20:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T04,10:22:00,10:22:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T04,10:24:00,10:24:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T04,10:27:00,10:27:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T04,10:33:00,10:33:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T04,10:44:00,10:44:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T04,10:54:00,10:54:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T05,11:34:00,11:34:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T05,11:46:00,11:46:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T05,11:48:00,11:48:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T05,11:50:00,11:50:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T05,11:53:00,11:53:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T05,11:59:00,11:59:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T05,12:10:00,12:10:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T05,12:20:00,12:20:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T06,12:45:00,12:45:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T06,12:57:00,12:57:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T06,12:59:00,12:59:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T06,13:01:00,13:01:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T06,13:04:00,13:04:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T06,13:10:00,13:10:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T06,13:21:00,13:21:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T06,13:31:00,13:31:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T07,14:15:00,14:15:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T07,14:27:00,14:27:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T07,14:29:00,14:29:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T07,14:31:00,14:31:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T07,14:34:00,14:34:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T07,14:40:00,14:40:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T07,14:51:00,14:51:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T07,15:01:00,15:01:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T08,15:27:00,15:27:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T08,15:39:00,15:39:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T08,15:41:00,15:41:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T08,15:43:00,15:43:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T08,15:46:00,15:46:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T08,15:52:00,15:52:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T08,16:03:00,16:03:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T08,16:13:00,16:13:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T09,16:53:00,16:53:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T09,17:05:00,17:05:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T09,17:07:00,17:07:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T09,17:09:00,17:09:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T09,17:12:00,17:12:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T09,17:18:00,17:18:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T09,17:29:00,17:29:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T09,17:39:00,17:39:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T10,18:04:00,18:04:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T10,19:27:00,19:27:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T10,19:29:00,19:29:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T10,19:31:00,19:31:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T10,19:34:00,19:34:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T10,19:40:00,19:40:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T10,19:51:00,19:51:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T10,20:01:00,20:01:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T11,19:15:00,19:15:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T11,20:53:00,20:53:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T11,20:55:00,20:55:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T11,20:57:00,20:57:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T11,21:00:00,21:00:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T11,21:06:00,21:06:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T11,21:17:00,21:17:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T11,21:27:00,21:27:00,C1_7,8,Granville Apartments,0,0,,,,1
+C1_T12,20:41:00,20:41:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
+C1_T12,22:04:00,22:04:00,C1_2,2,Rite Aid/Walgreens,0,0,,,,1
+C1_T12,22:06:00,22:06:00,C1_3,3,El Portal & "G" Street (Bus stop on"G"),0,0,,,,1
+C1_T12,22:08:00,22:08:00,C1_4,4,Mercy Hospital/Tri-College,0,0,,,,1
+C1_T12,22:11:00,22:11:00,C1_5,5,M St. & Bellevue RD (Bellevue Ranch),0,0,,,,1
+C1_T12,22:17:00,22:17:00,C1_6,6,UC Merced transit Center,0,0,,,,1
+C1_T12,22:28:00,22:28:00,UCM,7,Tri-College/Mercy (Bus stop on "G" next to Tri College,0,0,,,,1
+C1_T13,21:52:00,21:52:00,C1_1,1,G St. & W. Alexander Ave. (Bus Stop on "G" by Gas Station),0,0,,,,1
